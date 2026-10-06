@@ -1,0 +1,982 @@
+{
+  "0": {
+    "Nome": "00. O Aventureiro",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "O poder de criar traz o novo, que assusta e desequilibra",
+    "Verso2": "Te entrega, te joga, assuma e viva o risco de viver a vida.",
+    "Verso3": "O Vazio e o Caos em que saltas é a Deusa mais pura e selvagem",
+    "Verso4": "E quando o centro dEla alcançares, terás infinitas possibilidades"
+  },
+  "1": {
+    "Nome": "01. A Bruxaria",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Pela Terra, pelo Ar, pelo Fogo e pelo Mar,",
+    "Verso2": "Teu sacerdócio encontrarás: saber, conhecer e dobrar.",
+    "Verso3": "Da intimidade da Deusa sinta emanar teu poder",
+    "Verso4": "Pois enquanto moldas a Vida, com Ela és um único ser."
+  },
+  "2": {
+    "Nome": "02. O Oráculo",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Então, acima, aqui e abaixo, antes, agora e além,",
+    "Verso2": "Intuindo a Visão se faz, a tudo e a todos contém",
+    "Verso3": "Os anseios e esperanças, os destinos podes ver",
+    "Verso4": "Pois o coração nunca trai quem com ele se entender"
+  },
+  "3": {
+    "Nome": "03. O Amor",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Por isso no peito que ama a harmonia se fará",
+    "Verso2": "Entre o carnal e o espírito, o prazer e o alimentar",
+    "Verso3": "Beleza e exuberância, abundância e desfrutar,",
+    "Verso4": "Pois quando as almas se misturam, é porque plena a vida será."
+  },
+  "4": {
+    "Nome": "04. Os Progenitores",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "E quando a vida gera vida, um forte laço se faz,",
+    "Verso2": "Proteção para quem nasceu, sustento, conselhos, e paz,",
+    "Verso3": "A autoridade aí nascerá, respeito por quem quer bem,",
+    "Verso4": "O cordão que nutriu-te no útero agora te guia também."
+  },
+  "5": {
+    "Nome": "05. A Dedicadora",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Quem te guia não te carrega, mas te ensina a caminhar",
+    "Verso2": "No caminho do imprevisto, do infinito além do olhar",
+    "Verso3": "Junto a ela, junto a ele, tua vida se transformará",
+    "Verso4": "Pois dos mistérios da Deusa, tua mente se recordará"
+  },
+  "6": {
+    "Nome": "06. O Livre-Arbítrio",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "E agora que sentes e sabes, o importante é decidir,",
+    "Verso2": "E nisso ninguém te prende, ninguém te amarra além de ti.",
+    "Verso3": "É livre a tua vontade, o teu desejo e o teu agir,",
+    "Verso4": "E é aqui que teu poder nasce, escrevendo o que está por vir."
+  },
+  "7": {
+    "Nome": "07. O Bastão de Poder",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Se o decidir é concretizado, o impulso nasce em tuas mãos,",
+    "Verso2": "E se for bem focalizado, do fundo de teu coração,",
+    "Verso3": "As chamas do Bastão de Poder, o teu sentir, o teu fazer,",
+    "Verso4": "Serão rápidos e precisos em concretizar o teu querer."
+  },
+  "8": {
+    "Nome": "08. A Lei Tríplice",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Então cuida com o queres, o que pensas, fazes e sentes.",
+    "Verso2": "Teu Retorno será Triplicado, de acordo com tuas sementes.",
+    "Verso3": "Mede os teus atos agora, porque a vida também medirá.",
+    "Verso4": "Se és a Deusa, que é Tudo, Tudo que fazes a ti o farás."
+  },
+  "9": {
+    "Nome": "09. A Meditação",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Mergulha então em teu ser, nas sagradas visões do sonhar,",
+    "Verso2": "Medita longe de tudo que não seja o teu respirar.",
+    "Verso3": "No silêncio tua parte mais sábia, teu eu mais profundo, a própria Deusa,",
+    "Verso4": "Revelando os mistérios da vida, seus ciclos infindos de dor e beleza."
+  },
+  "10": {
+    "Nome": "10. A Espiral da Vida",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Reaprenda o segredo do ciclo, de raiva e paixão, de luz e de treva,",
+    "Verso2": "Tudo nasce, acaba e volta. Só a Deusa é Eterna,",
+    "Verso3": "Sem apego ou desespero, aproveita o aqui e o agora;",
+    "Verso4": "Atente ao momento certo, ao ponto do ciclo que realmente importa."
+  },
+  "11": {
+    "Nome": "11. A Sabedoria",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Quando entenderes teus ciclos, saberás de que és feita;",
+    "Verso2": "De pensar e de sentir, de saber e de intuir;",
+    "Verso3": "Quando juntares as partes, tornando a vontade inteira;",
+    "Verso4": "Tua força será infinita, com sabedoria pra ser perfeita."
+  },
+  "12": {
+    "Nome": "12. As Ataduras",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Mas também verás teus limites, e porque não podes agir.",
+    "Verso2": "Talvez por amor ao próximo, talvez por amor a ti,",
+    "Verso3": "O ponto morto é parte do ciclo, mas não deves jamais desistir",
+    "Verso4": "Mesmo que agora estejas atada, o teu destino é prosseguir."
+  },
+  "13": {
+    "Nome": "13. A Ceifeira",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "E quando chegares à Deusa Ceifeira, respira e lembra-te bem",
+    "Verso2": "Que o mudar pode doer, mas que a dor também é você.",
+    "Verso3": "Que destruir tudo que é velho faz parte do Universo",
+    "Verso4": "E pra que o pão seja moldado, o grão tem que ser esmagado."
+  },
+  "14": {
+    "Nome": "14. A Gestação",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Às vezes o mudar é lento, construído e gestado,",
+    "Verso2": "A Vida tem o seu ritmo, e não adianta tentar forçá-lo.",
+    "Verso3": "É questão de maturidade, de contornar a ansiedade,",
+    "Verso4": "E nessas horas lembrar que o tempo é teu aliado."
+  },
+  "15": {
+    "Nome": "15. O Deus de Chifres",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Mas quando a hora certa chegar, deixe o impulso te dominar",
+    "Verso2": "Na urgência do instinto, do tesão, gritar e lutar,",
+    "Verso3": "Viva a força explosiva do Chifre que protege a manada,",
+    "Verso4": "Do falo que fertiliza, da lança que guia a caçada."
+  },
+  "16": {
+    "Nome": "16. O Templo das Ilusões",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Mas lembra que sempre que sonhas, sempre que lutas, ousas ou caças,",
+    "Verso2": "A vitória nunca é certa, às vezes serás derrotada,",
+    "Verso3": "Ilusões que logo desmoronam, ensinando a checar tuas bases,",
+    "Verso4": "E a não confiares demais, nem em ti mesma nem em teus pares."
+  },
+  "17": {
+    "Nome": "17. A Estrela-Guia",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Mas por mais negra que seja a noite, sempre terás a estrela,",
+    "Verso2": "Para reencontrar o teu norte e realimentar a centelha",
+    "Verso3": "Da esperança que nunca morre, eterna como a própria Deusa,",
+    "Verso4": "Pois se é certo o anoitecer, o amanhecer também é certeza."
+  },
+  "18": {
+    "Nome": "18. A Lua",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No reino do inconsciente, do sentir e do intuir",
+    "Verso2": "Tudo parece mais que incerto, mil e uma dúvidas dentro de ti,",
+    "Verso3": "Mas é aí que mora a Deusa, nas mais infinitas possibilidades",
+    "Verso4": "Das trevas e da luz da Lua que relativizam toda a verdade."
+  },
+  "19": {
+    "Nome": "19. O Sol",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Mas quanto mais conheces a Deusa, mais conheces a ti mesma,",
+    "Verso2": "E mais claro será o teu dia e aonde a vida te leva e enseja,",
+    "Verso3": "O Sol no vazio escuro, gerado do útero dEla,",
+    "Verso4": "O dom de criar de tuas trevas a luz que a tua alma completa."
+  },
+  "20": {
+    "Nome": "20. O Retorno Tríplice",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Tua colheita chega agora, teu passado é ressurecto,",
+    "Verso2": "O que plantaste vem triplicado, em teu corpo, poder e afeto.",
+    "Verso3": "Teu próprio poder colherá recompensas boas e más",
+    "Verso4": "E só para a próxima roda separá-las tu poderás."
+  },
+  "21": {
+    "Nome": "21. O Cosmo",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Com aquilo que conquistaste enfim criarás o que queres",
+    "Verso2": "O mundo, o cosmo que sonhas, faz-se concreto e agora cresce.",
+    "Verso3": "Dos altos e baixos do ciclo este ponto é mais alto que os outros",
+    "Verso4": "E assim a espiral evolui e celebras a vida, colhendo teus louros."
+  },
+  "22": {
+    "Nome": "A carta em Branco",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Silêncio.\nE a ansiedade que não quer calar.\nSerá que já existe resposta?\nOu erraste na tua pergunta?\nSerá que estás pronta a saber,\nOu escreveste teu destino\nAntes mesmo de nascer?",
+    "Verso2": "",
+    "Verso3": "",
+    "Verso4": ""
+  },
+  "23": {
+    "Nome": "A Jovem olha para a Jovem na Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "A liberdade assume seu prazer,",
+    "Verso4": "Seu novo começo, seu novo viver."
+  },
+  "24": {
+    "Nome": "A Jovem olha para a Mãe na Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "A liberdade começa a se ligar",
+    "Verso4": "Às relações e compromissos de amar."
+  },
+  "25": {
+    "Nome": "A Jovem olha para a Anciã na Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "A liberdade se apega às batalhas",
+    "Verso4": "No ontem travadas para alcançá-la."
+  },
+  "26": {
+    "Nome": "A Mãe olha para a Jovem na Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se apega à liberdade antiga."
+  },
+  "27": {
+    "Nome": "A Mãe olha para a Mãe na Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Alimenta seus laços e ajuda."
+  },
+  "28": {
+    "Nome": "A Mãe olha para a Anciã na Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se separa da cria adulta."
+  },
+  "29": {
+    "Nome": "A Anciã olha para a Jovem na Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Descansa ao pensar na sua nova jornada."
+  },
+  "30": {
+    "Nome": "A Anciã olha para a Mãe na Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Se apega aos cuidados e laços."
+  },
+  "31": {
+    "Nome": "A Anciã olha para a Anciã na Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "A sábia descansa sua alma",
+    "Verso4": "Rompendo seus laços sementes separa."
+  },
+  "32": {
+    "Nome": "A Ceifa da Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Ceifa",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "A foice separa o velho do novo",
+    "Verso4": "Morrer, renascer, dor e prazer."
+  },
+  "33": {
+    "Nome": "A Filha da Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Filha",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "A jovem começa a observar",
+    "Verso4": "Aprendendo a dinâmica e o funcionar."
+  },
+  "34": {
+    "Nome": "O Filho da Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "O Filho",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "O jovem começa a tentar",
+    "Verso4": "Ousando errar pra também acertar."
+  },
+  "35": {
+    "Nome": "A Senhora da Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "A Senhora",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "A Senhora é plena em sabedoria",
+    "Verso4": "Conhece as minúcias de cada energia."
+  },
+  "36": {
+    "Nome": "O Senhor da Terra",
+    "Elemento": "Terra",
+    "PersonagemA": "O Senhor",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No corpo e na saúde,",
+    "Verso2": "No sustento, na concretude,",
+    "Verso3": "O Senhor alcançou a maturidade",
+    "Verso4": "E sabe moldar a melhor qualidade."
+  },
+  "37": {
+    "Nome": "A carta em Branco",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Silêncio.\nE a ansiedade que não quer calar.\nSerá que já existe resposta?\nOu erraste na tua pergunta?\nSerá que estás pronta a saber,\nOu escreveste teu destino\nAntes mesmo de nascer?",
+    "Verso2": "",
+    "Verso3": "",
+    "Verso4": ""
+  },
+  "38": {
+    "Nome": "A Jovem olha para a Jovem no Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A liberdade assume seu prazer,",
+    "Verso4": "Seu novo começo, seu novo viver."
+  },
+  "39": {
+    "Nome": "A Jovem olha para a Mãe no Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A liberdade começa a se ligar",
+    "Verso4": "Às relações e compromissos de amar."
+  },
+  "40": {
+    "Nome": "A Jovem olha para a Anciã no Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A liberdade se apega às batalhas",
+    "Verso4": "No ontem travadas para alcançá-la."
+  },
+  "41": {
+    "Nome": "A Mãe olha para a Jovem no Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se apega à liberdade antiga."
+  },
+  "42": {
+    "Nome": "A Mãe olha para a Mãe no Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Alimenta seus laços e ajuda."
+  },
+  "43": {
+    "Nome": "A Mãe olha para a Anciã no Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se separa da cria adulta."
+  },
+  "44": {
+    "Nome": "A Anciã olha para a Jovem no Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Descansa ao pensar na sua nova jornada."
+  },
+  "45": {
+    "Nome": "A Anciã olha para a Mãe no Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Se apega aos cuidados e laços."
+  },
+  "46": {
+    "Nome": "A Anciã olha para a Anciã no Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A sábia descansa sua alma",
+    "Verso4": "Rompendo seus laços sementes separa."
+  },
+  "47": {
+    "Nome": "A Ceifa do Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Ceifa",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A foice separa o velho do novo",
+    "Verso4": "Morrer, renascer, dor e prazer."
+  },
+  "48": {
+    "Nome": "A Filha do Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Filha",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A jovem começa a observar",
+    "Verso4": "Aprendendo a dinâmica e o funcionar."
+  },
+  "49": {
+    "Nome": "O Filho do Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "O Filho",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "O jovem começa a tentar",
+    "Verso4": "Ousando errar pra também acertar."
+  },
+  "50": {
+    "Nome": "A Senhora do Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "A Senhora",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A Senhora é plena em sabedoria",
+    "Verso4": "Conhece as minúcias de cada energia."
+  },
+  "51": {
+    "Nome": "O Senhor do Ar",
+    "Elemento": "Ar",
+    "PersonagemA": "O Senhor",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "O Senhor alcançou a maturidade",
+    "Verso4": "E sabe moldar a melhor qualidade."
+  },
+  "52": {
+    "Nome": "A carta em Branco",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Silêncio.\nE a ansiedade que não quer calar.\nSerá que já existe resposta?\nOu erraste na tua pergunta?\nSerá que estás pronta a saber,\nOu escreveste teu destino\nAntes mesmo de nascer?",
+    "Verso2": "",
+    "Verso3": "",
+    "Verso4": ""
+  },
+  "53": {
+    "Nome": "A Jovem olha para a Jovem no Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Jovem",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "A liberdade assume seu prazer,",
+    "Verso4": "Seu novo começo, seu novo viver."
+  },
+  "54": {
+    "Nome": "A Jovem olha para a Mãe no Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Mãe",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "A liberdade começa a se ligar",
+    "Verso4": "Às relações e compromissos de amar."
+  },
+  "55": {
+    "Nome": "A Jovem olha para a Anciã no Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Anciã",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "A liberdade se apega às batalhas",
+    "Verso4": "No ontem travadas para alcançá-la."
+  },
+  "56": {
+    "Nome": "A Mãe olha para a Jovem no Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Jovem",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se apega à liberdade antiga."
+  },
+  "57": {
+    "Nome": "A Mãe olha para a Mãe no Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Mãe",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Alimenta seus laços e ajuda."
+  },
+  "58": {
+    "Nome": "A Mãe olha para a Anciã no Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Anciã",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se separa da cria adulta."
+  },
+  "59": {
+    "Nome": "A Anciã olha para a Jovem no Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Jovem",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Descansa ao pensar na sua nova jornada."
+  },
+  "60": {
+    "Nome": "A Anciã olha para a Mãe no Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Mãe",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Se apega aos cuidados e laços."
+  },
+  "61": {
+    "Nome": "A Anciã olha para a Anciã no Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Anciã",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "A sábia descansa sua alma",
+    "Verso4": "Rompendo seus laços sementes separa."
+  },
+  "62": {
+    "Nome": "A Ceifa do Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Ceifa",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "A foice separa o velho do novo",
+    "Verso4": "Morrer, renascer, dor e prazer."
+  },
+  "63": {
+    "Nome": "A Filha do Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Filha",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "A jovem começa a observar",
+    "Verso4": "Aprendendo a dinâmica e o funcionar."
+  },
+  "64": {
+    "Nome": "O Filho do Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "O Filho",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "O jovem começa a tentar",
+    "Verso4": "Ousando errar pra também acertar."
+  },
+  "65": {
+    "Nome": "A Senhora do Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "A Senhora",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "A Senhora é plena em sabedoria",
+    "Verso4": "Conhece as minúcias de cada energia."
+  },
+  "66": {
+    "Nome": "O Senhor do Fogo",
+    "Elemento": "Fogo",
+    "PersonagemA": "O Senhor",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Nas energias e nas paixões,",
+    "Verso2": "Nas mais intensas transformações,",
+    "Verso3": "O Senhor alcançou a maturidade",
+    "Verso4": "E sabe moldar a melhor qualidade."
+  },
+  "67": {
+    "Nome": "A carta em Branco",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Silêncio.\nE a ansiedade que não quer calar.\nSerá que já existe resposta?\nOu erraste na tua pergunta?\nSerá que estás pronta a saber,\nOu escreveste teu destino\nAntes mesmo de nascer?",
+    "Verso2": "",
+    "Verso3": "",
+    "Verso4": ""
+  },
+  "68": {
+    "Nome": "A Jovem olha para a Jovem da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A liberdade assume seu prazer,",
+    "Verso4": "Seu novo começo, seu novo viver."
+  },
+  "69": {
+    "Nome": "A Jovem olha para a Mãe da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A liberdade começa a se ligar",
+    "Verso4": "Às relações e compromissos de amar."
+  },
+  "70": {
+    "Nome": "A Jovem olha para a Anciã da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A liberdade se apega às batalhas",
+    "Verso4": "No ontem travadas para alcançá-la."
+  },
+  "71": {
+    "Nome": "A Mãe olha para a Jovem da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se apega à liberdade antiga."
+  },
+  "72": {
+    "Nome": "A Mãe olha para a Mãe da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Alimenta seus laços e ajuda."
+  },
+  "73": {
+    "Nome": "A Mãe olha para a Anciã da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se separa da cria adulta."
+  },
+  "74": {
+    "Nome": "A Anciã olha para a Jovem da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Descansa ao pensar na sua nova jornada."
+  },
+  "75": {
+    "Nome": "A Anciã olha para a Mãe da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Se apega aos cuidados e laços."
+  },
+  "76": {
+    "Nome": "A Anciã olha para a Anciã da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A sábia descansa sua alma",
+    "Verso4": "Rompendo seus laços sementes separa."
+  },
+  "77": {
+    "Nome": "A Ceifa da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Ceifa",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A foice separa o velho do novo",
+    "Verso4": "Morrer, renascer, dor e prazer."
+  },
+  "78": {
+    "Nome": "A Filha da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Filha",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A jovem começa a observar",
+    "Verso4": "Aprendendo a dinâmica e o funcionar."
+  },
+  "79": {
+    "Nome": "O Filho da Água",
+    "Elemento": "Água",
+    "PersonagemA": "O Filho",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "O jovem começa a tentar",
+    "Verso4": "Ousando errar pra também acertar."
+  },
+  "80": {
+    "Nome": "A Senhora da Água",
+    "Elemento": "Água",
+    "PersonagemA": "A Senhora",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "A Senhora é plena em sabedoria",
+    "Verso4": "Conhece as minúcias de cada energia."
+  },
+  "81": {
+    "Nome": "O Senhor da Água",
+    "Elemento": "Água",
+    "PersonagemA": "O Senhor",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No sentir e no intuir,",
+    "Verso2": "Nos ciclos internos e no fluir,",
+    "Verso3": "O Senhor alcançou a maturidade",
+    "Verso4": "E sabe moldar a melhor qualidade."
+  },
+  "82": {
+    "Nome": "A carta em Branco",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Silêncio.\nE a ansiedade que não quer calar.\nSerá que já existe resposta?\nOu erraste na tua pergunta?\nSerá que estás pronta a saber,\nOu escreveste teu destino\nAntes mesmo de nascer?",
+    "Verso2": "",
+    "Verso3": "",
+    "Verso4": ""
+  },
+  "83": {
+    "Nome": "A Jovem olha para a Jovem no Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "A liberdade assume seu prazer,",
+    "Verso4": "Seu novo começo, seu novo viver."
+  },
+  "84": {
+    "Nome": "A Jovem olha para a Mãe no Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "A liberdade começa a se ligar",
+    "Verso4": "Às relações e compromissos de amar."
+  },
+  "85": {
+    "Nome": "A Jovem olha para a Anciã no Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Jovem",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "A liberdade se apega às batalhas",
+    "Verso4": "No ontem travadas para alcançá-la."
+  },
+  "86": {
+    "Nome": "A Mãe olha para a Jovem no Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se apega à liberdade antiga."
+  },
+  "87": {
+    "Nome": "A Mãe olha para a Mãe no Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Alimenta seus laços e ajuda."
+  },
+  "88": {
+    "Nome": "A Mãe olha para a Anciã no Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Mãe",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "Aquela que ama e cuida",
+    "Verso4": "Se separa da cria adulta."
+  },
+  "89": {
+    "Nome": "A Anciã olha para a Jovem no Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Jovem",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Descansa ao pensar na sua nova jornada."
+  },
+  "90": {
+    "Nome": "A Anciã olha para a Mãe no Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Mãe",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "A sábia mesmo cansada",
+    "Verso4": "Se apega aos cuidados e laços."
+  },
+  "91": {
+    "Nome": "A Anciã olha para a Anciã no Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Anciã",
+    "PersonagemB": "a Anciã",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "A sábia descansa sua alma",
+    "Verso4": "Rompendo seus laços sementes separa."
+  },
+  "92": {
+    "Nome": "A Ceifa do Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Ceifa",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "A foice separa o velho do novo",
+    "Verso4": "Morrer, renascer, dor e prazer."
+  },
+  "93": {
+    "Nome": "A Filha do Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Filha",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "A jovem começa a observar",
+    "Verso4": "Aprendendo a dinâmica e o funcionar."
+  },
+  "94": {
+    "Nome": "O Filho do Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "O Filho",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "O jovem começa a tentar",
+    "Verso4": "Ousando errar pra também acertar."
+  },
+  "95": {
+    "Nome": "A Senhora do Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "A Senhora",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "A Senhora é plena em sabedoria",
+    "Verso4": "Conhece as minúcias de cada energia."
+  },
+  "96": {
+    "Nome": "O Senhor do Espírito",
+    "Elemento": "Espírito",
+    "PersonagemA": "O Senhor",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "No religar-se com a Mãe Vida,",
+    "Verso2": "No mais selvagem harmonizar, no mais sagrado libertar,",
+    "Verso3": "O Senhor alcançou a maturidade",
+    "Verso4": "E sabe moldar a melhor qualidade."
+  },
+  "97": {
+    "Nome": "A carta em Branco",
+    "Elemento": "Inespecífico",
+    "PersonagemA": "Inespecífico",
+    "PersonagemB": "Inespecífico",
+    "Verso1": "Silêncio.\nE a ansiedade que não quer calar.\nSerá que já existe resposta?\nOu erraste na tua pergunta?\nSerá que estás pronta a saber,\nOu escreveste teu destino\nAntes mesmo de nascer?",
+    "Verso2": "",
+    "Verso3": "",
+    "Verso4": ""
+  }
+}

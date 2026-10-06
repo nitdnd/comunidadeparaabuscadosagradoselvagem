@@ -1,0 +1,17 @@
+# Build / export GDevelop - não vai para a main
+out/
+.build/
+export/
+
+# Preview temporário
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*~
